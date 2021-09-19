@@ -8,9 +8,6 @@
 
 [![Abinash's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbinashAhir&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Somnath's GitHub stats](https://github-readme-stats.vercel.app/api?username=somnathPrasad&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 
 ## ⚡ Languages and Technologies

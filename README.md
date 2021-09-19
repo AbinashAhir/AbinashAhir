@@ -6,7 +6,7 @@
 - ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AbinashAhir)
 
 
-[![Somnath's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbinashAhir&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Abinash's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbinashAhir&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## ⚡ Languages and Technologies
@@ -26,6 +26,6 @@
 ![](https://raw.githubusercontent.com/AbinashAhir/github-stats-transparent/output/generated/languages.svg)
 
 <!---
-somnathPrasad/somnathPrasad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AbinashAhir/AbinashAhir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->

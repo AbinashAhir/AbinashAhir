@@ -6,7 +6,7 @@
 - ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AbinashAhir)
 
 
-[![Abinash's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbinashAhir&count_private=true&show_icons=true&theme=radical)](https://github.com/AbinashAhir)
+[![Abinash's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbinashAhir&count_private=true&show_icons=true&theme=radical)](https://github.com/AbinashAhir/README.md)
 
 
 ## ⚡ Languages and Technologies
